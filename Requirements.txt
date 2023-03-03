@@ -1,0 +1,8 @@
+In order to proceed with the creation of this particular dashboard, you will need to install the following libraries in your local system.
+
+Pandas
+Numpy
+Streamlit
+Seaborn
+datetime
+plotly
