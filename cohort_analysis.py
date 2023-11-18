@@ -5,6 +5,7 @@ import seaborn as sns
 import matplotlib as mpl
 from datetime import date, datetime
 
+@st.experimental_memo
 st.set_page_config(
     page_title = "Cohorts Dashboard",
     page_icon = "",
